@@ -87,7 +87,7 @@ body {
 .mainmenu .dropdown-menu a {
 	padding:10px 10px;
 	margin:0;
-	color:white;
+	color:#88A1DB;
 	text-decoration: none;
 	-webkit-border-radius: 2px;
 	   -moz-border-radius: 2px;
@@ -95,7 +95,7 @@ body {
 }
 .mainmenu .dropdown-menu a:hover {
 	background:rgba(255,255,255,.1);
-	color:white;
+	color:#88A1DB;
 	padding:10px 8px 10px 12px;
 }
 
@@ -142,7 +142,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 	font-weight:normal;
 	font-size:7em;
 	margin-bottom:15px;
-	color:#FDF9F4;
+	color:##88A1DB;
 	line-height:1em;
 }
 .subtitle {
