@@ -298,17 +298,17 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 /*                   Inverted theme                        */
 /***********************************************************/
 .theme-invert {
-	color:#222;
+	color:#88A1DB;
 	color:rgba(0,0,0,.8);
  }
 .theme-invert a {
-	color:#000;
+	color:#88A1DB;
 }
 .theme-invert .btn {
 	color:rgba(255,255,255,.8);
 }
 .theme-invert .btn:hover {
-	color:#fff;
+	color:#88A1DB;
 }
 .theme-invert .btn-link {
 	color:rgba(0,0,0,.8);
@@ -333,7 +333,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 .theme-invert .title,
 .theme-invert .subtitle,
 .theme-invert .tagline {
-	color:#222222;
+	color:#88A1DB;
 }
 
 .theme-invert .btn-default {
