@@ -299,7 +299,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 /***********************************************************/
 .theme-invert {
 	color:#88A1DB;
-	color:rgba(0,0,0,.8);
+	color:rgba(136,161,219,.8);
  }
 .theme-invert a {
 	color:#88A1DB;
