@@ -1,5 +1,5 @@
 html {
-	background:#505D6E url(../images/body6.jpg) no-repeat center center fixed;
+	background:#505D6E url(../images/stairs.jpeg) no-repeat center center fixed;
 	min-height:100%;
 	-webkit-background-size: cover;
 	   -moz-background-size: cover;
@@ -144,6 +144,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 	margin-bottom:15px;
 	color:##88A1DB;
 	line-height:1em;
+	padding: 20px;
 }
 .subtitle {
 	line-height:.9em;
