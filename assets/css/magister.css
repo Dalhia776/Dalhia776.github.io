@@ -224,6 +224,11 @@ a:hover, a:active { color:#4C3957; text-decoration: underline; }
 	color: inherit;
 }
 
+.thumbnail #photo {
+	margin: 0;
+	border: 3px solid black;
+}
+
 
 
 /********************************************************/
