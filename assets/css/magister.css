@@ -14,8 +14,8 @@ body {
 	-webkit-overflow-scrolling: touch;
 	line-height: 1.5em;
 	font-size:14px;
-	font-family: Helvetica, Arial, sans-serif;
-	color:#88A1DB;
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+	color:#51344D;
 	color:rgba(136,161,219,.8);
 	font-weight: normal;
 }
@@ -138,11 +138,11 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 
 .title,
 .subtitle {
-	font-family: 'Pacifico', Helvetica, Arial, sans-serif;
+	font-family: 'Fredericka the Great', cursive;
 	font-weight:normal;
 	font-size:7em;
 	margin-bottom:15px;
-	color:##88A1DB;
+	color:#1C0221;
 	line-height:1em;
 	padding: 20px;
 }
@@ -211,7 +211,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 /*                 UI - Thumbnails                      */
 /********************************************************/
 .thumbnail {
-	background-color: rgba(255,255,255,.2);
+	background-color: rgba(217,11,78,.2);
 	border: 0 none;
 	padding:10px;
 	-webkit-border-radius: 2px;
@@ -255,39 +255,19 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /***********************************************************/
 /*                   Theme: text shadows                   */
 /***********************************************************/
 .text-shadows {
-	text-shadow:0 1px 2px rgba(136,161,219,.2);
+	text-shadow:0 1px 2px rgba(0,0,0,.2);
 }
 .text-shadows .title,
 .text-shadows .subtitle,
 .text-shadows .tagline {
-	text-shadow:0 2px 3px rgba(136,161,219,.4);
+	text-shadow:0 2px 3px rgba(0,0,0,.4);
 }
 .text-shadows .mainmenu .dropdown-menu a {
-	text-shadow:0 2px 1px rgba(136,161,219,.2);
+	text-shadow:0 2px 1px rgba(0,0,0,.2);
 }
 .text-shadows .mainmenu .dropdown-menu a:hover {
 	text-shadow:none;
@@ -299,17 +279,17 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 /*                   Inverted theme                        */
 /***********************************************************/
 .theme-invert {
-	color:#88A1DB;
-	color:rgba(136,161,219,.8);
+	color:#222;
+	color:rgba(0,0,0,.8);
  }
 .theme-invert a {
-	color:#88A1DB;
+	color:#000;
 }
 .theme-invert .btn {
 	color:rgba(255,255,255,.8);
 }
 .theme-invert .btn:hover {
-	color:#88A1DB;
+	color:#fff;
 }
 .theme-invert .btn-link {
 	color:rgba(0,0,0,.8);
@@ -334,7 +314,7 @@ a:hover, a:active { color:#88A1DB; text-decoration: underline; }
 .theme-invert .title,
 .theme-invert .subtitle,
 .theme-invert .tagline {
-	color:#88A1DB;
+	color:#222222;
 }
 
 .theme-invert .btn-default {
