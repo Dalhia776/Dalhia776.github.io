@@ -14,7 +14,7 @@ body {
 	-webkit-overflow-scrolling: touch;
 	line-height: 1.5em;
 	font-size:14px;
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Philosopher', sans-serif;
 	color:#51344D;
 	color:rgba(136,161,219,.8);
 	font-weight: normal;
@@ -87,7 +87,7 @@ body {
 .mainmenu .dropdown-menu a {
 	padding:10px 10px;
 	margin:0;
-	color:#88A1DB;
+	color:#51344D;
 	text-decoration: none;
 	-webkit-border-radius: 2px;
 	   -moz-border-radius: 2px;
@@ -95,7 +95,7 @@ body {
 }
 .mainmenu .dropdown-menu a:hover {
 	background:rgba(255,255,255,.1);
-	color:#88A1DB;
+	color:#51344D;
 	padding:10px 8px 10px 12px;
 }
 
@@ -110,8 +110,8 @@ body {
 	width: 100%;
 	overflow:auto;
 	height:100%;
-	padding-top:100px;
-	padding-bottom:50px;
+	padding-top:75px;
+	padding-bottom:75px;
 	display:none;
 	top:0;
 }
@@ -128,8 +128,8 @@ body {
 /********************************************************/
 /*                      Typography                      */
 /********************************************************/
-a { color:#88A1DB; text-decoration: none; }
-a:hover, a:active { color:#88A1DB; text-decoration: underline; }
+a { color:#51344D; text-decoration: none; }
+a:hover, a:active { color:#51344D; text-decoration: underline; }
 .lead {
 	font-weight:normal;
 	font-size:1.5em;
